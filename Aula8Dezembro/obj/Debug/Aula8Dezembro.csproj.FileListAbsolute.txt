@@ -1,0 +1,12 @@
+C:\Users\matheus.mtsouza3\source\repos\Aula8Dezembro\obj\Debug\Aula8Dezembro.csproj.AssemblyReference.cache
+C:\Users\matheus.mtsouza3\source\repos\Aula8Dezembro\obj\Debug\Aula8Dezembro.csproj.SuggestedBindingRedirects.cache
+C:\Users\matheus.mtsouza3\source\repos\Aula8Dezembro\obj\Debug\Aula8Dezembro.Form1.resources
+C:\Users\matheus.mtsouza3\source\repos\Aula8Dezembro\obj\Debug\Aula8Dezembro.Properties.Resources.resources
+C:\Users\matheus.mtsouza3\source\repos\Aula8Dezembro\obj\Debug\Aula8Dezembro.csproj.GenerateResource.cache
+C:\Users\matheus.mtsouza3\source\repos\Aula8Dezembro\obj\Debug\Aula8Dezembro.csproj.CoreCompileInputs.cache
+C:\Users\matheus.mtsouza3\source\repos\Aula8Dezembro\bin\Debug\Aula8Dezembro.exe.config
+C:\Users\matheus.mtsouza3\source\repos\Aula8Dezembro\bin\Debug\Aula8Dezembro.exe
+C:\Users\matheus.mtsouza3\source\repos\Aula8Dezembro\bin\Debug\Aula8Dezembro.pdb
+C:\Users\matheus.mtsouza3\source\repos\Aula8Dezembro\obj\Debug\Aula8Dezembro.exe
+C:\Users\matheus.mtsouza3\source\repos\Aula8Dezembro\obj\Debug\Aula8Dezembro.pdb
+C:\Users\matheus.mtsouza3\source\repos\Aula8Dezembro\obj\Debug\Aula8Dezembro.Form2.resources
